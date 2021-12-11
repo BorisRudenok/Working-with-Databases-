@@ -1,0 +1,1948 @@
+2021-09-09 11:19:28 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-09 11:19:28 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-09 11:19:30 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-09 11:19:30 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-09 11:19:30 INFO  - Browser 'CHROME' ready...
+2021-09-09 11:19:30 INFO  - Maximizing browser window
+2021-09-09 11:19:30 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-09 11:19:32 INFO  - Waiting for page to load
+2021-09-09 11:19:32 INFO  - Text Field 'google Search Box' :: Sending keys 'Беларусь'
+2021-09-09 11:19:32 INFO  - Closing browser
+2021-09-09 11:24:39 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-09 11:24:39 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-09 11:24:40 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-09 11:24:40 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-09 11:24:40 INFO  - Browser 'CHROME' ready...
+2021-09-09 11:24:41 INFO  - Maximizing browser window
+2021-09-09 11:24:41 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-09 11:24:43 INFO  - Waiting for page to load
+2021-09-09 11:24:43 INFO  - Text Field 'google Search Box' :: Sending keys 'Беларусь'
+2021-09-09 11:24:43 INFO  - Button 'google Search Button' :: Clicking
+2021-09-09 11:24:43 INFO  - Closing browser
+2021-09-09 11:27:42 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-09 11:27:42 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-09 11:27:44 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-09 11:27:44 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-09 11:27:44 INFO  - Browser 'CHROME' ready...
+2021-09-09 11:27:44 INFO  - Maximizing browser window
+2021-09-09 11:27:44 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-09 11:27:46 INFO  - Waiting for page to load
+2021-09-09 11:27:46 INFO  - Text Field 'google Search Box' :: Sending keys 'Беларусь'
+2021-09-09 11:27:46 INFO  - Button 'google Search Button' :: Clicking
+2021-09-09 11:27:49 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-09 11:27:49 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-09 11:27:49 INFO  - Closing browser
+2021-09-09 12:03:48 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-09 12:03:48 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-09 12:03:49 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-09 12:03:49 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-09 12:03:49 INFO  - Browser 'CHROME' ready...
+2021-09-09 12:03:49 INFO  - Maximizing browser window
+2021-09-09 12:03:50 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-09 12:03:51 INFO  - Waiting for page to load
+2021-09-09 12:03:51 INFO  - Text Field 'google Search Box' :: Sending keys 'Беларусь'
+2021-09-09 12:03:51 INFO  - Button 'google Search Button' :: Clicking
+2021-09-09 12:03:52 INFO  - Closing browser
+2021-09-09 12:04:42 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-09 12:04:42 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-09 12:04:43 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-09 12:04:43 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-09 12:04:43 INFO  - Browser 'CHROME' ready...
+2021-09-09 12:04:43 INFO  - Maximizing browser window
+2021-09-09 12:04:43 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-09 12:04:47 INFO  - Waiting for page to load
+2021-09-09 12:04:47 INFO  - Text Field 'google Search Box' :: Sending keys 'Беларусь'
+2021-09-09 12:04:47 INFO  - Button 'google Search Button' :: Clicking
+2021-09-09 12:04:56 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-09 12:04:56 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-09 12:04:56 INFO  - Closing browser
+2021-09-09 12:07:41 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-09 12:07:41 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-09 12:07:43 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-09 12:07:43 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-09 12:07:43 INFO  - Browser 'CHROME' ready...
+2021-09-09 12:07:43 INFO  - Maximizing browser window
+2021-09-09 12:07:43 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-09 12:07:46 INFO  - Waiting for page to load
+2021-09-09 12:07:46 INFO  - Text Field 'google Search Box' :: Sending keys 'Беларусь'
+2021-09-09 12:07:47 INFO  - Button 'google Search Button' :: Clicking
+2021-09-09 12:07:50 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-09 12:07:50 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-09 12:07:50 INFO  - Closing browser
+2021-09-09 12:10:00 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-09 12:10:00 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-09 12:10:01 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-09 12:10:01 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-09 12:10:01 INFO  - Browser 'CHROME' ready...
+2021-09-09 12:10:01 INFO  - Maximizing browser window
+2021-09-09 12:10:02 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-09 12:10:04 INFO  - Waiting for page to load
+2021-09-09 12:10:04 INFO  - Text Field 'google Search Box' :: Sending keys 'Беларусь'
+2021-09-09 12:10:04 INFO  - Button 'google Search Button' :: Clicking
+2021-09-09 12:10:08 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-09 12:10:08 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-09 12:10:08 INFO  - Closing browser
+2021-09-09 15:56:33 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-09 15:56:33 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-09 15:56:34 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-09 15:56:34 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-09 15:56:34 INFO  - Browser 'CHROME' ready...
+2021-09-09 15:56:34 INFO  - Maximizing browser window
+2021-09-09 15:56:34 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-09 15:56:37 INFO  - Waiting for page to load
+2021-09-09 15:56:37 INFO  - Text Field 'google Search Box' :: Sending keys 'Беларусь'
+2021-09-09 15:56:37 INFO  - Button 'google Search Button' :: Clicking
+2021-09-09 15:56:41 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-09 15:56:41 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-09 15:56:41 INFO  - Closing browser
+2021-09-09 15:57:53 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-09 15:57:53 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-09 15:57:54 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-09 15:57:54 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-09 15:57:54 INFO  - Browser 'CHROME' ready...
+2021-09-09 15:57:54 INFO  - Maximizing browser window
+2021-09-09 15:57:54 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-09 15:57:58 INFO  - Waiting for page to load
+2021-09-09 15:57:58 INFO  - Text Field 'google Search Box' :: Sending keys 'Беларусь'
+2021-09-09 15:57:58 INFO  - Button 'google Search Button' :: Clicking
+2021-09-09 15:58:02 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-09 15:58:02 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-09 15:58:02 INFO  - Closing browser
+2021-09-09 15:58:38 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-09 15:58:38 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-09 15:58:40 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-09 15:58:40 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-09 15:58:40 INFO  - Browser 'CHROME' ready...
+2021-09-09 15:58:40 INFO  - Maximizing browser window
+2021-09-09 15:58:40 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-09 15:58:41 INFO  - Waiting for page to load
+2021-09-09 15:58:41 INFO  - Text Field 'google Search Box' :: Sending keys 'Беларусь'
+2021-09-09 15:58:42 INFO  - Button 'google Search Button' :: Clicking
+2021-09-09 15:58:44 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-09 15:58:45 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-09 15:58:45 INFO  - Closing browser
+2021-09-09 15:59:15 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-09 15:59:15 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-09 15:59:17 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-09 15:59:17 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-09 15:59:17 INFO  - Browser 'CHROME' ready...
+2021-09-09 15:59:17 INFO  - Maximizing browser window
+2021-09-09 15:59:17 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-09 15:59:19 INFO  - Waiting for page to load
+2021-09-09 15:59:19 INFO  - Text Field 'google Search Box' :: Sending keys 'Беларусь'
+2021-09-09 15:59:19 INFO  - Button 'google Search Button' :: Clicking
+2021-09-09 15:59:23 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-09 15:59:23 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-09 15:59:23 INFO  - Closing browser
+2021-09-09 16:00:02 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-09 16:00:02 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-09 16:00:03 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-09 16:00:03 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-09 16:00:03 INFO  - Browser 'CHROME' ready...
+2021-09-09 16:00:03 INFO  - Maximizing browser window
+2021-09-09 16:00:03 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-09 16:00:05 INFO  - Waiting for page to load
+2021-09-09 16:00:05 INFO  - Text Field 'google Search Box' :: Sending keys 'Беларусь'
+2021-09-09 16:00:05 INFO  - Button 'google Search Button' :: Clicking
+2021-09-09 16:00:09 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-09 16:00:09 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-09 16:00:09 INFO  - Closing browser
+2021-09-09 17:47:46 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-09 17:47:46 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-09 17:47:48 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-09 17:47:48 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-09 17:47:48 INFO  - Browser 'CHROME' ready...
+2021-09-09 17:47:48 INFO  - Maximizing browser window
+2021-09-09 17:47:48 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-09 17:47:51 INFO  - Waiting for page to load
+2021-09-09 17:47:51 INFO  - Text Field 'google Search Box' :: Sending keys 'Беларусь'
+2021-09-09 17:47:52 INFO  - Button 'google Search Button' :: Clicking
+2021-09-09 17:47:58 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-09 17:47:58 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-09 17:47:58 INFO  - Closing browser
+2021-09-09 19:06:10 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-09 19:06:10 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-09 19:06:13 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-09 19:06:13 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-09 19:06:13 INFO  - Browser 'CHROME' ready...
+2021-09-09 19:06:13 INFO  - Maximizing browser window
+2021-09-09 19:06:13 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-09 19:06:14 INFO  - Waiting for page to load
+2021-09-09 19:06:14 INFO  - Text Field 'google Search Box' :: Sending keys 'Беларусь'
+2021-09-09 19:06:14 INFO  - Button 'google Search Button' :: Clicking
+2021-09-09 19:06:16 INFO  - Closing browser
+2021-09-09 19:16:38 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-09 19:16:38 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-09 19:16:39 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-09 19:16:39 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-09 19:16:39 INFO  - Browser 'CHROME' ready...
+2021-09-09 19:16:39 INFO  - Maximizing browser window
+2021-09-09 19:16:39 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-09 19:16:40 INFO  - Waiting for page to load
+2021-09-09 19:16:40 INFO  - Text Field 'google Search Box' :: Sending keys 'Беларусь'
+2021-09-09 19:16:41 INFO  - Button 'google Search Button' :: Clicking
+2021-09-09 19:16:42 INFO  - Closing browser
+2021-09-09 19:17:07 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-09 19:17:07 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-09 19:17:08 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-09 19:17:08 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-09 19:17:08 INFO  - Browser 'CHROME' ready...
+2021-09-09 19:17:08 INFO  - Maximizing browser window
+2021-09-09 19:17:08 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-09 19:17:11 INFO  - Waiting for page to load
+2021-09-09 19:17:11 INFO  - Text Field 'google Search Box' :: Sending keys 'Беларусь'
+2021-09-09 19:17:11 INFO  - Button 'google Search Button' :: Clicking
+2021-09-09 19:17:12 INFO  - Closing browser
+2021-09-09 19:17:52 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-09 19:17:52 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-09 19:17:53 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-09 19:17:53 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-09 19:17:53 INFO  - Browser 'CHROME' ready...
+2021-09-09 19:17:53 INFO  - Maximizing browser window
+2021-09-09 19:17:53 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-09 19:17:55 INFO  - Waiting for page to load
+2021-09-09 19:17:55 INFO  - Text Field 'google Search Box' :: Sending keys 'Беларусь'
+2021-09-09 19:17:55 INFO  - Button 'google Search Button' :: Clicking
+2021-09-09 19:17:59 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-09 19:17:59 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-09 19:17:59 INFO  - Closing browser
+2021-09-09 19:29:00 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-09 19:29:00 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-09 19:29:02 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-09 19:29:02 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-09 19:29:02 INFO  - Browser 'CHROME' ready...
+2021-09-09 19:29:02 INFO  - Maximizing browser window
+2021-09-09 19:29:02 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-09 19:29:04 INFO  - Waiting for page to load
+2021-09-09 19:29:04 INFO  - Text Field 'google Search Box' :: Sending keys 'Беларусь'
+2021-09-09 19:29:04 INFO  - Button 'google Search Button' :: Clicking
+2021-09-09 19:29:06 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-09 19:29:06 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-09 19:29:06 INFO  - Closing browser
+2021-09-10 09:23:35 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-10 09:23:35 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-10 09:23:37 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-10 09:23:37 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-10 09:23:37 INFO  - Browser 'CHROME' ready...
+2021-09-10 09:23:37 INFO  - Maximizing browser window
+2021-09-10 09:23:37 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-10 09:23:41 INFO  - Waiting for page to load
+2021-09-10 09:23:41 INFO  - Text Field 'google Search Box' :: Sending keys 'Беларусь'
+2021-09-10 09:23:41 INFO  - Button 'google Search Button' :: Clicking
+2021-09-10 09:23:48 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-10 09:23:48 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-10 09:23:48 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-10 09:23:48 INFO  - Closing browser
+2021-09-10 09:24:54 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-10 09:24:54 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-10 09:24:55 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-10 09:24:55 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-10 09:24:55 INFO  - Browser 'CHROME' ready...
+2021-09-10 09:24:55 INFO  - Maximizing browser window
+2021-09-10 09:24:56 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-10 09:24:58 INFO  - Waiting for page to load
+2021-09-10 09:24:58 INFO  - Text Field 'google Search Box' :: Sending keys 'Беларусь'
+2021-09-10 09:24:58 INFO  - Button 'google Search Button' :: Clicking
+2021-09-10 09:24:59 INFO  - Closing browser
+2021-09-10 09:26:12 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-10 09:26:12 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-10 09:26:13 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-10 09:26:13 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-10 09:26:13 INFO  - Browser 'CHROME' ready...
+2021-09-10 09:26:13 INFO  - Maximizing browser window
+2021-09-10 09:26:13 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-10 09:26:17 INFO  - Waiting for page to load
+2021-09-10 09:26:17 INFO  - Text Field 'google Search Box' :: Sending keys 'Беларусь'
+2021-09-10 09:26:17 INFO  - Button 'google Search Button' :: Sending key 'Keys.ENTER'
+2021-09-10 09:26:21 INFO  - Closing browser
+2021-09-10 09:26:32 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-10 09:26:32 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-10 09:26:33 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-10 09:26:33 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-10 09:26:33 INFO  - Browser 'CHROME' ready...
+2021-09-10 09:26:33 INFO  - Maximizing browser window
+2021-09-10 09:26:33 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-10 09:26:37 INFO  - Waiting for page to load
+2021-09-10 09:26:37 INFO  - Text Field 'google Search Box' :: Sending keys 'Беларусь'
+2021-09-10 09:26:37 INFO  - Button 'google Search Button' :: Sending key 'Keys.ENTER'
+2021-09-10 09:26:41 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-10 09:26:41 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-10 09:26:41 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-10 09:26:41 INFO  - Closing browser
+2021-09-10 09:28:04 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-10 09:28:04 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-10 09:28:05 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-10 09:28:05 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-10 09:28:05 INFO  - Browser 'CHROME' ready...
+2021-09-10 09:28:05 INFO  - Maximizing browser window
+2021-09-10 09:28:05 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-10 09:28:08 INFO  - Waiting for page to load
+2021-09-10 09:28:08 INFO  - Text Field 'google Search Box' :: Sending keys 'Беларусь'
+2021-09-10 09:28:08 INFO  - Button 'google Search Button' :: Sending key 'Keys.ENTER'
+2021-09-10 09:28:12 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-10 09:28:12 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-10 09:28:13 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-10 09:28:13 INFO  - Closing browser
+2021-09-10 10:22:23 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-10 10:22:23 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-10 10:22:24 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-10 10:22:24 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-10 10:22:24 INFO  - Browser 'CHROME' ready...
+2021-09-10 10:22:24 INFO  - Maximizing browser window
+2021-09-10 10:22:24 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-10 10:22:26 INFO  - Waiting for page to load
+2021-09-10 10:22:26 INFO  - Text Field 'google Search Box' :: Sending keys 'Беларусь'
+2021-09-10 10:22:26 INFO  - Button 'google Search Button' :: Sending key 'Keys.ENTER'
+2021-09-10 10:22:31 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-10 10:22:31 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-10 10:22:31 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-10 10:22:31 INFO  - Closing browser
+2021-09-10 10:30:19 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-10 10:30:19 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-10 10:30:20 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-10 10:30:20 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-10 10:30:21 INFO  - Browser 'CHROME' ready...
+2021-09-10 10:30:21 INFO  - Maximizing browser window
+2021-09-10 10:30:21 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-10 10:30:25 INFO  - Waiting for page to load
+2021-09-10 10:30:25 INFO  - Text Field 'google Search Box' :: Sending keys 'Беларусь'
+2021-09-10 10:30:25 INFO  - Button 'google Search Button' :: Sending key 'Keys.ENTER'
+2021-09-10 10:30:30 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-10 10:30:30 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-10 10:30:30 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-10 10:30:30 INFO  - Closing browser
+2021-09-10 10:39:40 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-10 10:39:40 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-10 10:39:41 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-10 10:39:41 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-10 10:39:41 INFO  - Browser 'CHROME' ready...
+2021-09-10 10:39:41 INFO  - Maximizing browser window
+2021-09-10 10:39:41 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-10 10:39:43 INFO  - Waiting for page to load
+2021-09-10 10:39:43 INFO  - Text Field 'google Search Box' :: Sending keys 'Беларусь'
+2021-09-10 10:39:43 INFO  - Button 'google Search Button' :: Sending key 'Keys.ENTER'
+2021-09-10 10:39:48 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-10 10:39:48 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-10 10:39:48 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-10 10:39:48 INFO  - Closing browser
+2021-09-10 10:40:25 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-10 10:40:25 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-10 10:40:27 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-10 10:40:27 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-10 10:40:27 INFO  - Browser 'CHROME' ready...
+2021-09-10 10:40:27 INFO  - Maximizing browser window
+2021-09-10 10:40:27 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-10 10:40:29 INFO  - Waiting for page to load
+2021-09-10 10:40:29 INFO  - Text Field 'google Search Box' :: Sending keys 'Беларусь'
+2021-09-10 10:40:29 INFO  - Button 'google Search Button' :: Sending key 'Keys.ENTER'
+2021-09-10 10:40:33 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-10 10:40:33 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-10 10:40:33 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-10 10:40:33 INFO  - Closing browser
+2021-09-10 10:55:55 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-10 10:55:55 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-10 10:55:57 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-10 10:55:57 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-10 10:55:57 INFO  - Browser 'CHROME' ready...
+2021-09-10 10:55:57 INFO  - Maximizing browser window
+2021-09-10 10:55:57 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-10 10:56:00 INFO  - Waiting for page to load
+2021-09-10 10:56:00 INFO  - Text Field 'google Search Box' :: Sending keys 'Беларусь'
+2021-09-10 10:56:00 INFO  - Button 'google Search Button' :: Sending key 'Keys.ENTER'
+2021-09-10 10:56:04 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-10 10:56:04 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-10 10:56:05 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-10 10:56:05 INFO  - Closing browser
+2021-09-10 11:23:03 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-10 11:23:03 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-10 11:23:05 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-10 11:23:05 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-10 11:23:05 INFO  - Browser 'CHROME' ready...
+2021-09-10 11:23:05 INFO  - Maximizing browser window
+2021-09-10 11:23:05 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-10 11:23:07 INFO  - Waiting for page to load
+2021-09-10 11:23:07 INFO  - Text Field 'google Search Box' :: Sending keys 'Беларусь'
+2021-09-10 11:23:07 INFO  - Button 'google Search Button' :: Sending key 'Keys.ENTER'
+2021-09-10 11:23:18 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-10 11:23:18 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-10 11:23:18 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-10 11:23:19 INFO  - Closing browser
+2021-09-10 11:47:18 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-10 11:47:18 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-10 11:47:19 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-10 11:47:19 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-10 11:47:19 INFO  - Browser 'CHROME' ready...
+2021-09-10 11:47:19 INFO  - Maximizing browser window
+2021-09-10 11:47:19 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-10 11:47:21 INFO  - Waiting for page to load
+2021-09-10 11:47:21 INFO  - Text Field 'google Search Box' :: Sending keys 'Беларусь'
+2021-09-10 11:47:21 INFO  - Button 'google Search Button' :: Sending key 'Keys.ENTER'
+2021-09-10 11:47:25 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-10 11:47:25 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-10 11:47:25 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-10 11:47:26 INFO  - Closing browser
+2021-09-10 11:51:26 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-10 11:51:26 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-10 11:51:27 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-10 11:51:27 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-10 11:51:27 INFO  - Browser 'CHROME' ready...
+2021-09-10 11:51:27 INFO  - Maximizing browser window
+2021-09-10 11:51:27 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-10 11:51:30 INFO  - Waiting for page to load
+2021-09-10 11:51:30 INFO  - Text Field 'google Search Box' :: Sending keys 'Беларусь'
+2021-09-10 11:51:30 INFO  - Button 'google Search Button' :: Sending key 'Keys.ENTER'
+2021-09-10 11:51:34 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-10 11:51:34 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-10 11:51:34 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-10 11:51:35 INFO  - Closing browser
+2021-09-10 11:56:12 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-10 11:56:12 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-10 11:56:14 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-10 11:56:14 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-10 11:56:14 INFO  - Browser 'CHROME' ready...
+2021-09-10 11:56:14 INFO  - Maximizing browser window
+2021-09-10 11:56:14 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-10 11:56:16 INFO  - Waiting for page to load
+2021-09-10 11:56:16 INFO  - Text Field 'google Search Box' :: Sending keys 'Беларусь'
+2021-09-10 11:56:16 INFO  - Button 'google Search Button' :: Sending key 'Keys.ENTER'
+2021-09-10 11:56:22 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-10 11:56:22 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-10 11:56:22 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-10 11:56:22 INFO  - Closing browser
+2021-09-10 12:00:49 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-10 12:00:49 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-10 12:00:51 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-10 12:00:51 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-10 12:00:51 INFO  - Browser 'CHROME' ready...
+2021-09-10 12:00:51 INFO  - Maximizing browser window
+2021-09-10 12:00:51 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-10 12:00:53 INFO  - Waiting for page to load
+2021-09-10 12:00:53 INFO  - Text Field 'google Search Box' :: Sending keys 'Беларусь'
+2021-09-10 12:00:53 INFO  - Button 'google Search Button' :: Sending key 'Keys.ENTER'
+2021-09-10 12:00:57 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-10 12:00:57 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-10 12:00:57 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-10 12:00:58 INFO  - Closing browser
+2021-09-10 12:04:47 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-10 12:04:47 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-10 12:04:48 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-10 12:04:48 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-10 12:04:48 INFO  - Browser 'CHROME' ready...
+2021-09-10 12:04:48 INFO  - Maximizing browser window
+2021-09-10 12:04:48 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-10 12:04:49 INFO  - Waiting for page to load
+2021-09-10 12:04:49 INFO  - Text Field 'google Search Box' :: Sending keys 'Беларусь'
+2021-09-10 12:04:50 INFO  - Button 'google Search Button' :: Sending key 'Keys.ENTER'
+2021-09-10 12:04:52 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-10 12:04:52 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-10 12:04:52 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-10 12:04:53 INFO  - Closing browser
+2021-09-10 14:19:39 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-10 14:19:39 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-10 14:19:41 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-10 14:19:41 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-10 14:19:41 INFO  - Browser 'CHROME' ready...
+2021-09-10 14:19:41 INFO  - Maximizing browser window
+2021-09-10 14:19:41 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-10 14:19:43 INFO  - Waiting for page to load
+2021-09-10 14:19:43 INFO  - Text Field 'google Search Box' :: Sending keys 'Беларусь'
+2021-09-10 14:19:43 INFO  - Button 'google Search Button' :: Sending key 'Keys.ENTER'
+2021-09-10 14:19:53 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-10 14:19:53 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-10 14:19:53 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-10 14:19:53 INFO  - Closing browser
+2021-09-10 14:21:58 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-10 14:21:58 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-10 14:22:00 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-10 14:22:00 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-10 14:22:00 INFO  - Browser 'CHROME' ready...
+2021-09-10 14:22:00 INFO  - Maximizing browser window
+2021-09-10 14:22:00 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-10 14:22:03 INFO  - Waiting for page to load
+2021-09-10 14:22:03 INFO  - Text Field 'google Search Box' :: Sending keys 'Беларусь'
+2021-09-10 14:22:03 INFO  - Button 'google Search Button' :: Sending key 'Keys.ENTER'
+2021-09-10 14:22:07 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-10 14:22:07 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-10 14:22:07 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-10 14:22:08 INFO  - Closing browser
+2021-09-10 14:29:42 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-10 14:29:42 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-10 14:29:43 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-10 14:29:43 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-10 14:29:43 INFO  - Browser 'CHROME' ready...
+2021-09-10 14:29:43 INFO  - Maximizing browser window
+2021-09-10 14:29:43 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-10 14:29:46 INFO  - Waiting for page to load
+2021-09-10 14:29:46 INFO  - Text Field 'google Search Box' :: Sending keys 'Беларусь'
+2021-09-10 14:29:46 INFO  - Button 'google Search Button' :: Sending key 'Keys.ENTER'
+2021-09-10 14:29:51 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-10 14:29:51 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-10 14:29:51 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-10 14:29:51 INFO  - Closing browser
+2021-09-10 14:30:30 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-10 14:30:30 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-10 14:30:32 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-10 14:30:32 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-10 14:30:32 INFO  - Browser 'CHROME' ready...
+2021-09-10 14:30:32 INFO  - Maximizing browser window
+2021-09-10 14:30:32 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-10 14:30:34 INFO  - Waiting for page to load
+2021-09-10 14:30:34 INFO  - Text Field 'google Search Box' :: Sending keys 'Беларусь'
+2021-09-10 14:30:34 INFO  - Button 'google Search Button' :: Sending key 'Keys.ENTER'
+2021-09-10 14:30:38 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-10 14:30:38 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-10 14:30:39 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-10 14:30:39 INFO  - Closing browser
+2021-09-13 09:13:19 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-13 09:13:19 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-13 09:13:21 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-13 09:13:21 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-13 09:13:21 INFO  - Browser 'CHROME' ready...
+2021-09-13 09:13:21 INFO  - Maximizing browser window
+2021-09-13 09:13:22 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-13 09:13:22 INFO  - Waiting for page to load
+2021-09-13 09:13:22 INFO  - Text Field 'google Search Box' :: Sending keys 'Беларусь'
+2021-09-13 09:13:23 INFO  - Button 'google Search Button' :: Sending key 'Keys.ENTER'
+2021-09-13 09:13:26 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-13 09:13:26 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-13 09:13:26 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-13 09:13:26 INFO  - Closing browser
+2021-09-13 10:34:53 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-13 10:34:53 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-13 10:34:55 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-13 10:34:55 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-13 10:34:55 INFO  - Browser 'CHROME' ready...
+2021-09-13 10:34:55 INFO  - Maximizing browser window
+2021-09-13 10:34:55 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-13 10:34:56 INFO  - Waiting for page to load
+2021-09-13 10:34:56 INFO  - Text Field 'google Search Box' :: Sending keys 'Беларусь'
+2021-09-13 10:34:56 INFO  - Button 'google Search Button' :: Sending key 'Keys.ENTER'
+2021-09-13 10:34:58 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-13 10:34:58 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-13 10:34:58 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-13 10:34:59 INFO  - Closing browser
+2021-09-13 23:26:06 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-13 23:26:06 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-13 23:26:09 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-13 23:26:09 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-13 23:26:09 INFO  - Browser 'CHROME' ready...
+2021-09-13 23:26:09 INFO  - Maximizing browser window
+2021-09-13 23:26:09 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-13 23:26:10 INFO  - Waiting for page to load
+2021-09-13 23:26:10 INFO  - Text Field 'google Search Box' :: Sending keys 'Беларусь'
+2021-09-13 23:26:10 INFO  - Text Field 'google Search Box' :: Sending key 'Keys.ENTER'
+2021-09-13 23:26:12 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-13 23:26:12 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-13 23:26:13 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-13 23:26:13 INFO  - Closing browser
+2021-09-13 23:40:03 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-13 23:40:03 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-13 23:40:05 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-13 23:40:05 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-13 23:40:05 INFO  - Browser 'CHROME' ready...
+2021-09-13 23:40:05 INFO  - Maximizing browser window
+2021-09-13 23:40:05 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-13 23:40:06 INFO  - Waiting for page to load
+2021-09-13 23:40:06 INFO  - Text Field 'google Search Box' :: Sending keys 'Беларусь'
+2021-09-13 23:40:07 INFO  - Text Field 'google Search Box' :: Sending key 'Keys.ENTER'
+2021-09-13 23:40:09 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-13 23:40:09 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-13 23:40:09 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-13 23:40:09 INFO  - Closing browser
+2021-09-13 23:49:51 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-13 23:49:51 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-13 23:49:52 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-13 23:49:52 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-13 23:49:52 INFO  - Browser 'CHROME' ready...
+2021-09-13 23:49:52 INFO  - Maximizing browser window
+2021-09-13 23:49:52 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-13 23:49:53 INFO  - Waiting for page to load
+2021-09-13 23:49:53 INFO  - Text Field 'google Search Box' :: Sending keys 'Беларусь'
+2021-09-13 23:49:53 INFO  - Text Field 'google Search Box' :: Sending key 'Keys.ENTER'
+2021-09-13 23:49:55 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-13 23:49:55 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-13 23:49:55 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-13 23:49:56 INFO  - Closing browser
+2021-09-13 23:57:50 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-13 23:57:50 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-13 23:57:51 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-13 23:57:51 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-13 23:57:51 INFO  - Browser 'CHROME' ready...
+2021-09-13 23:57:51 INFO  - Maximizing browser window
+2021-09-13 23:57:51 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-13 23:57:52 INFO  - Waiting for page to load
+2021-09-13 23:57:52 INFO  - Text Field 'google Search Box' :: Sending keys 'Беларусь'
+2021-09-13 23:57:52 INFO  - Text Field 'google Search Box' :: Sending key 'Keys.ENTER'
+2021-09-13 23:57:55 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-13 23:57:55 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-13 23:57:55 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-13 23:57:55 INFO  - Closing browser
+2021-09-13 23:58:06 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-13 23:58:06 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-13 23:58:08 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-13 23:58:08 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-13 23:58:08 INFO  - Browser 'CHROME' ready...
+2021-09-13 23:58:08 INFO  - Maximizing browser window
+2021-09-13 23:58:08 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-13 23:58:09 INFO  - Waiting for page to load
+2021-09-13 23:58:09 INFO  - Text Field 'google Search Box' :: Sending keys 'Беларусь'
+2021-09-13 23:58:09 INFO  - Text Field 'google Search Box' :: Sending key 'Keys.ENTER'
+2021-09-13 23:58:11 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-13 23:58:11 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-13 23:58:11 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-13 23:58:11 INFO  - Closing browser
+2021-09-13 23:59:27 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-13 23:59:27 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-13 23:59:28 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-13 23:59:28 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-13 23:59:28 INFO  - Browser 'CHROME' ready...
+2021-09-13 23:59:28 INFO  - Maximizing browser window
+2021-09-13 23:59:28 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-13 23:59:29 INFO  - Waiting for page to load
+2021-09-13 23:59:29 INFO  - Text Field 'google Search Box' :: Sending keys 'Беларусь'
+2021-09-13 23:59:29 INFO  - Text Field 'google Search Box' :: Sending key 'Keys.ENTER'
+2021-09-13 23:59:31 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-13 23:59:32 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-13 23:59:32 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-13 23:59:32 INFO  - Closing browser
+2021-09-13 23:59:56 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-13 23:59:56 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-13 23:59:58 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-13 23:59:58 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-13 23:59:58 INFO  - Browser 'CHROME' ready...
+2021-09-13 23:59:58 INFO  - Maximizing browser window
+2021-09-13 23:59:58 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-13 23:59:59 INFO  - Waiting for page to load
+2021-09-13 23:59:59 INFO  - Text Field 'google Search Box' :: Sending keys 'Беларусь'
+2021-09-13 23:59:59 INFO  - Text Field 'google Search Box' :: Sending key 'Keys.ENTER'
+2021-09-14 00:00:01 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-14 00:00:01 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-14 00:00:01 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-14 00:00:01 INFO  - Closing browser
+2021-09-14 00:03:49 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-14 00:03:49 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-14 00:03:50 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-14 00:03:50 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-14 00:03:50 INFO  - Browser 'CHROME' ready...
+2021-09-14 00:03:50 INFO  - Maximizing browser window
+2021-09-14 00:03:50 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-14 00:03:51 INFO  - Waiting for page to load
+2021-09-14 00:03:51 INFO  - Text Field 'google Search Box' :: Sending keys '��������'
+2021-09-14 00:03:51 INFO  - Text Field 'google Search Box' :: Sending key 'Keys.ENTER'
+2021-09-14 00:03:52 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-14 00:03:59 INFO  - Closing browser
+2021-09-14 00:53:05 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-14 00:53:05 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-14 00:53:06 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-14 00:53:06 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-14 00:53:06 INFO  - Browser 'CHROME' ready...
+2021-09-14 00:53:06 INFO  - Maximizing browser window
+2021-09-14 00:53:06 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-14 00:53:07 INFO  - Waiting for page to load
+2021-09-14 00:53:07 INFO  - Text Field 'google Search Box' :: Sending keys 'Беларусь'
+2021-09-14 00:53:08 INFO  - Text Field 'google Search Box' :: Sending key 'Keys.ENTER'
+2021-09-14 00:53:10 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-14 00:53:10 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-14 00:53:10 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-14 00:53:10 INFO  - Closing browser
+2021-09-14 08:17:18 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-14 08:17:18 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-14 08:17:20 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-14 08:17:20 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-14 08:17:20 INFO  - Browser 'CHROME' ready...
+2021-09-14 08:17:20 INFO  - Maximizing browser window
+2021-09-14 08:17:20 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-14 08:17:21 INFO  - Waiting for page to load
+2021-09-14 08:17:21 INFO  - Text Field 'google Search Box' :: Sending keys 'Беларусь'
+2021-09-14 08:17:21 INFO  - Text Field 'google Search Box' :: Sending key 'Keys.ENTER'
+2021-09-14 08:17:23 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-14 08:17:23 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-14 08:17:23 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-14 08:17:24 INFO  - Closing browser
+2021-09-14 08:20:35 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-14 08:20:35 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-14 08:20:36 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-14 08:20:36 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-14 08:20:36 INFO  - Browser 'CHROME' ready...
+2021-09-14 08:20:36 INFO  - Maximizing browser window
+2021-09-14 08:20:37 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-14 08:20:37 INFO  - Waiting for page to load
+2021-09-14 08:20:37 INFO  - Text Field 'google Search Box' :: Sending keys 'Беларусь'
+2021-09-14 08:20:37 INFO  - Text Field 'google Search Box' :: Sending key 'Keys.ENTER'
+2021-09-14 08:20:40 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-14 08:20:40 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-14 08:20:40 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-14 08:20:40 INFO  - Closing browser
+2021-09-14 08:29:54 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-14 08:29:54 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-14 08:29:56 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-14 08:29:56 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-14 08:29:56 INFO  - Browser 'CHROME' ready...
+2021-09-14 08:29:56 INFO  - Maximizing browser window
+2021-09-14 08:29:56 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-14 08:29:57 INFO  - Waiting for page to load
+2021-09-14 08:29:57 INFO  - Text Field 'google Search Box' :: Sending keys 'Беларусь'
+2021-09-14 08:29:57 INFO  - Text Field 'google Search Box' :: Sending key 'Keys.ENTER'
+2021-09-14 08:29:59 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-14 08:29:59 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-14 08:29:59 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-14 08:29:59 INFO  - Closing browser
+2021-09-14 08:33:38 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-14 08:33:38 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-14 08:33:39 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-14 08:33:39 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-14 08:33:39 INFO  - Browser 'CHROME' ready...
+2021-09-14 08:33:39 INFO  - Maximizing browser window
+2021-09-14 08:33:39 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-14 08:33:40 INFO  - Waiting for page to load
+2021-09-14 08:33:40 INFO  - Text Field 'google Search Box' :: Sending keys 'Беларусь'
+2021-09-14 08:33:40 INFO  - Text Field 'google Search Box' :: Sending key 'Keys.ENTER'
+2021-09-14 08:33:42 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-14 08:33:42 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-14 08:33:42 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-14 08:33:42 INFO  - Closing browser
+2021-09-14 08:35:54 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-14 08:35:54 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-14 08:35:56 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-14 08:35:56 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-14 08:35:56 INFO  - Browser 'CHROME' ready...
+2021-09-14 08:35:56 INFO  - Maximizing browser window
+2021-09-14 08:35:56 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-14 08:35:57 INFO  - Waiting for page to load
+2021-09-14 08:35:57 INFO  - Text Field 'google Search Box' :: Sending keys 'Беларусь'
+2021-09-14 08:35:57 INFO  - Text Field 'google Search Box' :: Sending key 'Keys.ENTER'
+2021-09-14 08:35:59 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-14 08:35:59 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-14 08:35:59 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-14 08:35:59 INFO  - Closing browser
+2021-09-14 08:37:21 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-14 08:37:21 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-14 08:37:22 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-14 08:37:22 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-14 08:37:22 INFO  - Browser 'CHROME' ready...
+2021-09-14 08:37:22 INFO  - Maximizing browser window
+2021-09-14 08:37:23 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-14 08:37:23 INFO  - Waiting for page to load
+2021-09-14 08:37:23 INFO  - Text Field 'google Search Box' :: Sending keys 'Беларусь'
+2021-09-14 08:37:23 INFO  - Text Field 'google Search Box' :: Sending key 'Keys.ENTER'
+2021-09-14 08:37:25 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-14 08:37:25 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-14 08:37:26 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-14 08:37:26 INFO  - Closing browser
+2021-09-14 08:38:54 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-14 08:38:54 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-14 08:38:55 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-14 08:38:55 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-14 08:38:55 INFO  - Browser 'CHROME' ready...
+2021-09-14 08:38:55 INFO  - Maximizing browser window
+2021-09-14 08:38:55 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-14 08:38:56 INFO  - Waiting for page to load
+2021-09-14 08:38:56 INFO  - Text Field 'google Search Box' :: Sending keys 'Беларусь'
+2021-09-14 08:38:56 INFO  - Text Field 'google Search Box' :: Sending key 'Keys.ENTER'
+2021-09-14 08:38:58 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-14 08:38:58 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-14 08:38:58 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-14 08:38:58 INFO  - Closing browser
+2021-09-14 08:42:37 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-14 08:42:37 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-14 08:42:39 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-14 08:42:39 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-14 08:42:39 INFO  - Browser 'CHROME' ready...
+2021-09-14 08:42:39 INFO  - Maximizing browser window
+2021-09-14 08:42:39 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-14 08:42:39 INFO  - Waiting for page to load
+2021-09-14 08:42:39 INFO  - Text Field 'google Search Box' :: Sending keys 'Беларусь'
+2021-09-14 08:42:40 INFO  - Text Field 'google Search Box' :: Sending key 'Keys.ENTER'
+2021-09-14 08:42:41 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-14 08:42:41 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-14 08:42:42 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-14 08:42:42 INFO  - Closing browser
+2021-09-14 08:57:56 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-14 08:57:56 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-14 08:57:58 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-14 08:57:58 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-14 08:57:58 INFO  - Browser 'CHROME' ready...
+2021-09-14 08:57:58 INFO  - Maximizing browser window
+2021-09-14 08:57:58 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-14 08:57:59 INFO  - Waiting for page to load
+2021-09-14 08:57:59 INFO  - Text Field 'google Search Box' :: Sending keys 'Беларусь'
+2021-09-14 08:57:59 INFO  - Text Field 'google Search Box' :: Sending key 'Keys.ENTER'
+2021-09-14 08:58:02 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-14 08:58:02 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-14 08:58:02 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-14 08:58:02 INFO  - Closing browser
+2021-09-14 09:13:33 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-14 09:13:33 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-14 09:13:34 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-14 09:13:34 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-14 09:13:34 INFO  - Browser 'CHROME' ready...
+2021-09-14 09:13:34 INFO  - Maximizing browser window
+2021-09-14 09:13:34 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-14 09:13:35 INFO  - Waiting for page to load
+2021-09-14 09:13:35 INFO  - Text Field 'google Search Box' :: Sending keys 'Беларусь'
+2021-09-14 09:13:35 INFO  - Text Field 'google Search Box' :: Sending key 'Keys.ENTER'
+2021-09-14 09:13:37 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-14 09:13:37 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-14 09:13:37 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-14 09:13:37 INFO  - Closing browser
+2021-09-14 09:16:10 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-14 09:16:10 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-14 09:16:11 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-14 09:16:11 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-14 09:16:11 INFO  - Browser 'CHROME' ready...
+2021-09-14 09:16:11 INFO  - Maximizing browser window
+2021-09-14 09:16:11 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-14 09:16:13 INFO  - Waiting for page to load
+2021-09-14 09:16:13 INFO  - Text Field 'google Search Box' :: Sending keys 'Беларусь'
+2021-09-14 09:16:13 INFO  - Text Field 'google Search Box' :: Sending key 'Keys.ENTER'
+2021-09-14 09:16:15 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-14 09:16:15 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-14 09:16:15 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-14 09:16:15 INFO  - Closing browser
+2021-09-14 09:33:55 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-14 09:33:55 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-14 09:33:57 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-14 09:33:57 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-14 09:33:57 INFO  - Browser 'CHROME' ready...
+2021-09-14 09:33:57 INFO  - Maximizing browser window
+2021-09-14 09:33:57 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-14 09:33:58 INFO  - Waiting for page to load
+2021-09-14 09:33:58 INFO  - Text Field 'google Search Box' :: Sending keys 'Беларусь'
+2021-09-14 09:33:58 INFO  - Text Field 'google Search Box' :: Sending key 'Keys.ENTER'
+2021-09-14 09:34:01 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-14 09:34:01 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-14 09:34:01 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-14 09:34:01 INFO  - Closing browser
+2021-09-14 09:34:59 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-14 09:34:59 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-14 09:35:01 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-14 09:35:01 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-14 09:35:01 INFO  - Browser 'CHROME' ready...
+2021-09-14 09:35:01 INFO  - Maximizing browser window
+2021-09-14 09:35:01 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-14 09:35:02 INFO  - Waiting for page to load
+2021-09-14 09:35:02 INFO  - Text Field 'google Search Box' :: Sending keys 'Беларусь'
+2021-09-14 09:35:02 INFO  - Text Field 'google Search Box' :: Sending key 'Keys.ENTER'
+2021-09-14 09:35:05 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-14 09:35:05 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-14 09:35:05 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-14 09:35:05 INFO  - Closing browser
+2021-09-14 09:39:19 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-14 09:39:19 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-14 09:39:20 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-14 09:39:20 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-14 09:39:20 INFO  - Browser 'CHROME' ready...
+2021-09-14 09:39:20 INFO  - Maximizing browser window
+2021-09-14 09:39:20 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-14 09:39:21 INFO  - Waiting for page to load
+2021-09-14 09:39:21 INFO  - Text Field 'google Search Box' :: Sending keys 'Беларусь'
+2021-09-14 09:39:21 INFO  - Text Field 'google Search Box' :: Sending key 'Keys.ENTER'
+2021-09-14 09:39:24 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-14 09:39:24 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-14 09:39:24 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-14 09:39:24 INFO  - Closing browser
+2021-09-14 09:41:29 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-14 09:41:29 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-14 09:41:31 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-14 09:41:31 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-14 09:41:31 INFO  - Browser 'CHROME' ready...
+2021-09-14 09:41:31 INFO  - Maximizing browser window
+2021-09-14 09:41:50 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-14 09:41:50 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-14 09:41:51 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-14 09:41:51 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-14 09:41:51 INFO  - Browser 'CHROME' ready...
+2021-09-14 09:41:51 INFO  - Maximizing browser window
+2021-09-14 09:42:21 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-14 09:42:21 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-14 09:42:23 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-14 09:42:23 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-14 09:42:23 INFO  - Browser 'CHROME' ready...
+2021-09-14 09:42:23 INFO  - Maximizing browser window
+2021-09-14 09:42:23 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-14 09:42:24 INFO  - Waiting for page to load
+2021-09-14 09:42:24 INFO  - Text Field 'google Search Box' :: Sending keys 'Беларусь'
+2021-09-14 09:42:24 INFO  - Text Field 'google Search Box' :: Sending key 'Keys.ENTER'
+2021-09-14 09:42:26 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-14 09:42:26 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-14 09:42:26 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-14 09:42:26 INFO  - Closing browser
+2021-09-14 09:44:12 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-14 09:44:12 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-14 09:44:14 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-14 09:44:14 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-14 09:44:14 INFO  - Browser 'CHROME' ready...
+2021-09-14 09:44:14 INFO  - Maximizing browser window
+2021-09-14 09:44:14 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-14 09:44:17 INFO  - Waiting for page to load
+2021-09-14 09:44:17 INFO  - Text Field 'google Search Box' :: Sending keys 'Беларусь'
+2021-09-14 09:44:17 INFO  - Text Field 'google Search Box' :: Sending key 'Keys.ENTER'
+2021-09-14 09:44:19 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-14 09:44:19 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-14 09:44:19 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-14 09:44:19 INFO  - Closing browser
+2021-09-14 09:45:30 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-14 09:45:30 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-14 09:45:32 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-14 09:45:32 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-14 09:45:32 INFO  - Browser 'CHROME' ready...
+2021-09-14 09:45:32 INFO  - Maximizing browser window
+2021-09-14 09:47:12 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-14 09:51:55 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-14 09:51:55 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-14 09:51:57 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-14 09:51:57 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-14 09:51:57 INFO  - Browser 'CHROME' ready...
+2021-09-14 09:51:57 INFO  - Maximizing browser window
+2021-09-14 09:51:57 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-14 09:51:58 INFO  - Waiting for page to load
+2021-09-14 09:51:58 INFO  - Text Field 'google Search Box' :: Sending keys 'Беларусь'
+2021-09-14 09:51:59 INFO  - Text Field 'google Search Box' :: Sending key 'Keys.ENTER'
+2021-09-14 09:52:01 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-14 09:52:01 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-14 09:52:01 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-14 09:52:01 INFO  - Closing browser
+2021-09-14 10:06:25 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-14 10:06:25 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-14 10:06:27 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-14 10:06:27 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-14 10:06:27 INFO  - Browser 'CHROME' ready...
+2021-09-14 10:06:27 INFO  - Maximizing browser window
+2021-09-14 10:06:27 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-14 10:06:28 INFO  - Waiting for page to load
+2021-09-14 10:06:28 INFO  - Text Field 'google Search Box' :: Sending keys 'Беларусь'
+2021-09-14 10:06:28 INFO  - Text Field 'google Search Box' :: Sending key 'Keys.ENTER'
+2021-09-14 10:06:31 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-14 10:06:31 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-14 10:06:31 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-14 10:06:31 INFO  - Closing browser
+2021-09-14 10:11:14 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-14 10:11:14 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-14 10:11:15 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-14 10:11:15 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-14 10:11:15 INFO  - Browser 'CHROME' ready...
+2021-09-14 10:11:15 INFO  - Maximizing browser window
+2021-09-14 10:11:15 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-14 10:11:16 INFO  - Waiting for page to load
+2021-09-14 10:11:16 INFO  - Text Field 'google Search Box' :: Sending keys 'Беларусь'
+2021-09-14 10:11:16 INFO  - Text Field 'google Search Box' :: Sending key 'Keys.ENTER'
+2021-09-14 10:11:19 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-14 10:11:19 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-14 10:11:19 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-14 10:11:19 INFO  - Closing browser
+2021-09-14 10:17:27 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-14 10:17:27 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-14 10:17:28 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-14 10:17:28 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-14 10:17:28 INFO  - Browser 'CHROME' ready...
+2021-09-14 10:17:28 INFO  - Maximizing browser window
+2021-09-14 10:17:29 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-14 10:17:29 INFO  - Waiting for page to load
+2021-09-14 10:17:30 INFO  - Text Field 'google Search Box' :: Sending keys 'Беларусь'
+2021-09-14 10:17:30 INFO  - Text Field 'google Search Box' :: Sending key 'Keys.ENTER'
+2021-09-14 10:17:31 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-14 10:17:31 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-14 10:17:32 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-14 10:17:32 INFO  - Closing browser
+2021-09-14 10:22:24 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-14 10:22:24 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-14 10:22:25 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-14 10:22:25 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-14 10:22:25 INFO  - Browser 'CHROME' ready...
+2021-09-14 10:22:25 INFO  - Maximizing browser window
+2021-09-14 10:22:25 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-14 10:22:26 INFO  - Waiting for page to load
+2021-09-14 10:22:27 INFO  - Text Field 'google Search Box' :: Sending keys 'Беларусь'
+2021-09-14 10:22:27 INFO  - Text Field 'google Search Box' :: Sending key 'Keys.ENTER'
+2021-09-14 10:22:29 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-14 10:22:29 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-14 10:22:29 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-14 10:22:29 INFO  - Closing browser
+2021-09-14 10:30:06 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-14 10:30:06 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-14 10:30:08 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-14 10:30:08 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-14 10:30:08 INFO  - Browser 'CHROME' ready...
+2021-09-14 10:30:08 INFO  - Maximizing browser window
+2021-09-14 10:31:19 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-14 10:31:22 INFO  - Waiting for page to load
+2021-09-14 10:55:31 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-14 10:55:31 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-14 10:55:32 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-14 10:55:32 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-14 10:55:32 INFO  - Browser 'CHROME' ready...
+2021-09-14 10:55:32 INFO  - Maximizing browser window
+2021-09-14 10:55:32 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-14 10:55:33 INFO  - Waiting for page to load
+2021-09-14 10:55:33 INFO  - Text Field 'google Search Box' :: Sending keys '��������'
+2021-09-14 10:55:33 INFO  - Text Field 'google Search Box' :: Sending key 'Keys.ENTER'
+2021-09-14 10:55:35 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-14 10:55:49 INFO  - Closing browser
+2021-09-14 11:01:14 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-14 11:01:14 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-14 11:01:16 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-14 11:01:16 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-14 11:01:16 INFO  - Browser 'CHROME' ready...
+2021-09-14 11:01:16 INFO  - Maximizing browser window
+2021-09-14 11:01:16 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-14 11:01:17 INFO  - Waiting for page to load
+2021-09-14 11:01:17 INFO  - Text Field 'google Search Box' :: Sending keys '��������'
+2021-09-14 11:01:17 INFO  - Text Field 'google Search Box' :: Sending key 'Keys.ENTER'
+2021-09-14 11:01:19 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-14 11:01:32 INFO  - Closing browser
+2021-09-14 11:02:21 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-14 11:02:21 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-14 11:02:22 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-14 11:02:22 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-14 11:02:22 INFO  - Browser 'CHROME' ready...
+2021-09-14 11:02:22 INFO  - Maximizing browser window
+2021-09-14 11:02:22 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-14 11:02:23 INFO  - Waiting for page to load
+2021-09-14 11:02:23 INFO  - Text Field 'google Search Box' :: Sending keys 'Беларусь'
+2021-09-14 11:02:24 INFO  - Text Field 'google Search Box' :: Sending key 'Keys.ENTER'
+2021-09-14 11:02:25 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-14 11:02:25 INFO  - Closing browser
+2021-09-14 11:03:18 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-14 11:03:18 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-14 11:03:21 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-14 11:03:21 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-14 11:03:21 INFO  - Browser 'CHROME' ready...
+2021-09-14 11:03:24 INFO  - Maximizing browser window
+2021-09-14 11:03:25 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-14 11:03:26 INFO  - Waiting for page to load
+2021-09-14 11:03:35 INFO  - Text Field 'google Search Box' :: Sending keys 'Беларусь'
+2021-09-14 11:03:35 INFO  - Text Field 'google Search Box' :: Sending key 'Keys.ENTER'
+2021-09-14 11:03:37 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-14 11:04:54 INFO  - Closing browser
+2021-09-14 11:05:14 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-14 11:05:14 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-14 11:05:15 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-14 11:05:15 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-14 11:05:15 INFO  - Browser 'CHROME' ready...
+2021-09-14 11:05:15 INFO  - Maximizing browser window
+2021-09-14 11:05:16 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-14 11:05:17 INFO  - Waiting for page to load
+2021-09-14 11:05:17 INFO  - Text Field 'google Search Box' :: Sending keys 'Беларусь'
+2021-09-14 11:05:17 INFO  - Text Field 'google Search Box' :: Sending key 'Keys.ENTER'
+2021-09-14 11:05:20 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-14 11:05:20 INFO  - Closing browser
+2021-09-14 11:05:56 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-14 11:05:56 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-14 11:05:57 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-14 11:05:57 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-14 11:05:57 INFO  - Browser 'CHROME' ready...
+2021-09-14 11:05:57 INFO  - Maximizing browser window
+2021-09-14 11:05:58 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-14 11:05:58 INFO  - Waiting for page to load
+2021-09-14 11:05:59 INFO  - Text Field 'google Search Box' :: Sending keys 'Беларусь'
+2021-09-14 11:05:59 INFO  - Text Field 'google Search Box' :: Sending key 'Keys.ENTER'
+2021-09-14 11:06:01 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-14 11:06:01 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-14 11:06:01 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-14 11:06:01 INFO  - Closing browser
+2021-09-14 11:24:14 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-14 11:24:14 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-14 11:24:15 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-14 11:24:15 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-14 11:24:15 INFO  - Browser 'CHROME' ready...
+2021-09-14 11:25:18 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-14 11:25:18 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-14 11:25:20 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-14 11:25:20 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-14 11:25:20 INFO  - Browser 'CHROME' ready...
+2021-09-14 11:31:55 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-14 11:31:55 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-14 11:31:57 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-14 11:31:57 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-14 11:31:57 INFO  - Browser 'CHROME' ready...
+2021-09-14 11:31:57 INFO  - Maximizing browser window
+2021-09-14 11:31:57 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-14 11:31:58 INFO  - Waiting for page to load
+2021-09-14 11:31:58 INFO  - Text Field 'google Search Box' :: Sending keys 'Беларусь'
+2021-09-14 11:31:58 INFO  - Text Field 'google Search Box' :: Sending key 'Keys.ENTER'
+2021-09-14 11:32:00 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-14 11:32:00 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-14 11:32:00 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-14 11:32:00 INFO  - Closing browser
+2021-09-14 11:57:11 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-14 11:57:11 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-14 11:57:12 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-14 11:57:12 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-14 11:57:12 INFO  - Browser 'CHROME' ready...
+2021-09-14 11:57:12 INFO  - Maximizing browser window
+2021-09-14 11:57:12 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-14 11:57:13 INFO  - Waiting for page to load
+2021-09-14 11:57:13 INFO  - Text Field 'google Search Box' :: Typing 'Беларусь'
+2021-09-14 11:57:14 INFO  - Text Field 'google Search Box' :: Sending key 'Keys.ENTER'
+2021-09-14 11:57:16 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-14 11:57:16 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-14 11:57:16 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-14 11:57:16 INFO  - Closing browser
+2021-09-14 11:58:43 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-14 11:58:43 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-14 11:58:44 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-14 11:58:44 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-14 11:58:44 INFO  - Browser 'CHROME' ready...
+2021-09-14 11:58:44 INFO  - Maximizing browser window
+2021-09-14 11:58:44 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-14 11:58:45 INFO  - Waiting for page to load
+2021-09-14 11:58:45 INFO  - Text Field 'google Search Box' :: Typing 'Беларусь'
+2021-09-14 11:58:47 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-14 11:58:47 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-14 11:58:47 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-14 11:58:47 INFO  - Closing browser
+2021-09-14 11:59:53 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-14 11:59:53 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-14 11:59:54 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-14 11:59:54 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-14 11:59:54 INFO  - Browser 'CHROME' ready...
+2021-09-14 11:59:54 INFO  - Maximizing browser window
+2021-09-14 11:59:55 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-14 11:59:55 INFO  - Waiting for page to load
+2021-09-14 12:00:06 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-14 12:00:06 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-14 12:00:07 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-14 12:00:08 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-14 12:00:08 INFO  - Browser 'CHROME' ready...
+2021-09-14 12:00:08 INFO  - Maximizing browser window
+2021-09-14 12:00:08 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-14 12:00:08 INFO  - Waiting for page to load
+2021-09-14 12:00:09 INFO  - Text Field 'google Search Box' :: Typing 'Беларусь'
+2021-09-14 12:00:11 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-14 12:00:11 INFO  - Text Field 'Text 'Беларусь'' :: Getting attribute 'value'
+2021-09-14 12:00:11 INFO  - Text Field 'Text 'Беларусь'' :: Value of attribute 'value': [null]
+2021-09-14 12:00:11 INFO  - Closing browser
+2021-09-14 12:24:46 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-14 12:24:46 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-14 12:24:48 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-14 12:24:48 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-14 12:24:48 INFO  - Browser 'CHROME' ready...
+2021-09-14 12:24:48 INFO  - Maximizing browser window
+2021-09-14 12:24:48 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-14 12:24:49 INFO  - Waiting for page to load
+2021-09-14 12:24:49 INFO  - Text Field 'google Search Box' :: Typing 'Беларусь'
+2021-09-14 12:24:51 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-14 12:24:51 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-14 12:24:51 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-14 12:24:51 INFO  - Closing browser
+2021-09-14 12:26:16 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-14 12:26:16 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-14 12:26:17 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-14 12:26:17 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-14 12:26:17 INFO  - Browser 'CHROME' ready...
+2021-09-14 12:26:17 INFO  - Maximizing browser window
+2021-09-14 12:26:17 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-14 12:26:18 INFO  - Waiting for page to load
+2021-09-14 12:26:18 INFO  - Text Field 'google Search Box' :: Typing 'Беларусь'
+2021-09-14 12:26:20 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-14 12:26:20 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-14 12:26:20 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-14 12:26:20 INFO  - Closing browser
+2021-09-15 08:06:13 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-15 08:06:13 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-15 08:06:14 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-15 08:06:14 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-15 08:06:14 INFO  - Browser 'CHROME' ready...
+2021-09-15 08:06:14 INFO  - Maximizing browser window
+2021-09-15 08:06:14 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-15 08:06:15 INFO  - Waiting for page to load
+2021-09-15 08:06:15 INFO  - Text Field 'google Search Box' :: Typing 'Беларусь'
+2021-09-15 08:06:17 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-15 08:06:17 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-15 08:06:17 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-15 08:06:18 INFO  - Closing browser
+2021-09-15 08:06:18 INFO  - Closing browser
+2021-09-15 08:08:59 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-15 08:08:59 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-15 08:09:01 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-15 08:09:01 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-15 08:09:01 INFO  - Browser 'CHROME' ready...
+2021-09-15 08:09:01 INFO  - Maximizing browser window
+2021-09-15 08:09:01 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-15 08:09:02 INFO  - Waiting for page to load
+2021-09-15 08:09:02 INFO  - Text Field 'google Search Box' :: Typing 'Беларусь'
+2021-09-15 08:09:04 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-15 08:09:04 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-15 08:09:04 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-15 08:09:04 WARN  - Cannot find localized message by key '/failed!' in resource file localization/en.json
+2021-09-15 08:09:04 ERROR - failed!
+2021-09-15 08:09:04 INFO  - Closing browser
+2021-09-15 08:09:05 INFO  - Closing browser
+2021-09-15 08:09:34 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-15 08:09:34 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-15 08:09:36 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-15 08:09:36 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-15 08:09:36 INFO  - Browser 'CHROME' ready...
+2021-09-15 08:09:36 INFO  - Maximizing browser window
+2021-09-15 08:09:36 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-15 08:09:37 INFO  - Waiting for page to load
+2021-09-15 08:09:37 INFO  - Text Field 'google Search Box' :: Typing 'Беларусь'
+2021-09-15 08:09:39 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-15 08:09:39 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-15 08:09:39 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-15 08:09:39 WARN  - Cannot find localized message by key '/failed!' in resource file localization/en.json
+2021-09-15 08:09:39 ERROR - failed!
+2021-09-15 08:09:39 INFO  - Closing browser
+2021-09-15 08:09:40 INFO  - Closing browser
+2021-09-15 08:10:49 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-15 08:10:49 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-15 08:10:50 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-15 08:10:50 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-15 08:10:50 INFO  - Browser 'CHROME' ready...
+2021-09-15 08:10:50 INFO  - Maximizing browser window
+2021-09-15 08:10:50 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-15 08:10:51 INFO  - Waiting for page to load
+2021-09-15 08:10:51 INFO  - Text Field 'google Search Box' :: Typing 'Беларусь'
+2021-09-15 08:10:54 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-15 08:10:54 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-15 08:10:54 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-15 08:10:54 INFO  - Closing browser
+2021-09-15 08:10:55 INFO  - Closing browser
+2021-09-15 08:13:53 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-15 08:13:53 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-15 08:13:54 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-15 08:13:54 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-15 08:13:54 INFO  - Browser 'CHROME' ready...
+2021-09-15 08:13:55 INFO  - Maximizing browser window
+2021-09-15 08:13:55 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-15 08:13:55 INFO  - Waiting for page to load
+2021-09-15 08:13:55 INFO  - Text Field 'google Search Box' :: Typing 'Беларусь'
+2021-09-15 08:13:57 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-15 08:13:57 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-15 08:13:58 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-15 08:13:58 INFO  - Closing browser
+2021-09-15 08:13:59 INFO  - Closing browser
+2021-09-15 08:23:31 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-15 08:23:31 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-15 08:23:32 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-15 08:23:32 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-15 08:23:32 INFO  - Browser 'CHROME' ready...
+2021-09-15 08:23:32 INFO  - Maximizing browser window
+2021-09-15 08:23:32 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-15 08:23:33 INFO  - Waiting for page to load
+2021-09-15 08:23:33 INFO  - Text Field 'google Search Box' :: Typing 'Беларусь'
+2021-09-15 08:23:34 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-15 08:24:02 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-15 08:24:02 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-15 08:24:03 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-15 08:24:03 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-15 08:24:03 INFO  - Browser 'CHROME' ready...
+2021-09-15 08:24:03 INFO  - Maximizing browser window
+2021-09-15 08:24:04 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-15 08:24:04 INFO  - Waiting for page to load
+2021-09-15 08:24:04 INFO  - Text Field 'google Search Box' :: Typing 'Беларусь'
+2021-09-15 08:24:06 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-15 08:24:06 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-15 08:24:06 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-15 08:24:07 INFO  - Closing browser
+2021-09-15 08:24:07 INFO  - Closing browser
+2021-09-15 08:26:12 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-15 08:26:12 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-15 08:26:13 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-15 08:26:13 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-15 08:26:13 INFO  - Browser 'CHROME' ready...
+2021-09-15 08:26:13 INFO  - Maximizing browser window
+2021-09-15 08:26:13 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-15 08:26:14 INFO  - Waiting for page to load
+2021-09-15 08:26:14 INFO  - Text Field 'google Search Box' :: Typing 'Беларусь'
+2021-09-15 08:26:16 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-15 08:26:16 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-15 08:26:16 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-15 08:26:16 INFO  - Closing browser
+2021-09-15 08:26:17 INFO  - Closing browser
+2021-09-15 08:38:33 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-15 08:38:33 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-15 08:38:34 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-15 08:38:34 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-15 08:38:34 INFO  - Browser 'CHROME' ready...
+2021-09-15 08:38:34 INFO  - Maximizing browser window
+2021-09-15 08:38:34 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-15 08:38:35 INFO  - Waiting for page to load
+2021-09-15 08:38:35 INFO  - Text Field 'google Search Box' :: Typing 'Беларусь'
+2021-09-15 08:38:37 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-15 08:38:37 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-15 08:38:37 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-15 08:38:38 INFO  - Closing browser
+2021-09-15 08:38:39 INFO  - Closing browser
+2021-09-15 08:38:53 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-15 08:38:53 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-15 08:38:54 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-15 08:38:54 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-15 08:38:54 INFO  - Browser 'CHROME' ready...
+2021-09-15 08:38:54 INFO  - Maximizing browser window
+2021-09-15 08:38:55 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-15 08:38:56 INFO  - Waiting for page to load
+2021-09-15 08:38:56 INFO  - Text Field 'google Search Box' :: Typing 'Беларусь'
+2021-09-15 08:38:58 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-15 08:38:58 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-15 08:38:58 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-15 08:38:58 INFO  - Closing browser
+2021-09-15 08:38:59 INFO  - Closing browser
+2021-09-15 08:39:42 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-15 08:39:42 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-15 08:39:44 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-15 08:39:44 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-15 08:39:44 INFO  - Browser 'CHROME' ready...
+2021-09-15 08:39:44 INFO  - Maximizing browser window
+2021-09-15 08:39:44 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-15 08:39:44 INFO  - Waiting for page to load
+2021-09-15 08:39:44 INFO  - Text Field 'google Search Box' :: Typing 'Беларусь'
+2021-09-15 08:39:47 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-15 08:39:47 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-15 08:39:47 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-15 08:39:47 INFO  - Closing browser
+2021-09-15 08:39:48 INFO  - Closing browser
+2021-09-15 08:51:48 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-15 08:51:48 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-15 08:51:49 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-15 08:51:49 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-15 08:51:49 INFO  - Browser 'CHROME' ready...
+2021-09-15 08:51:49 INFO  - Maximizing browser window
+2021-09-15 08:51:49 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-15 08:51:50 INFO  - Waiting for page to load
+2021-09-15 08:51:50 INFO  - Text Field 'google Search Box' :: Typing 'Беларусь'
+2021-09-15 08:51:52 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-15 08:51:52 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-15 08:51:52 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-15 08:51:52 INFO  - Closing browser
+2021-09-15 10:05:49 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-15 10:05:49 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-15 10:05:50 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-15 10:05:50 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-15 10:05:50 INFO  - Browser 'CHROME' ready...
+2021-09-15 10:05:50 INFO  - Maximizing browser window
+2021-09-15 10:05:51 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-15 10:05:51 INFO  - Waiting for page to load
+2021-09-15 10:05:51 INFO  - Text Field 'google Search Box' :: Typing 'Беларусь'
+2021-09-15 10:05:54 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-15 10:05:54 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-15 10:05:54 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-15 10:05:54 INFO  - Closing browser
+2021-09-15 10:06:44 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-15 10:06:44 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-15 10:06:45 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-15 10:06:45 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-15 10:06:45 INFO  - Browser 'CHROME' ready...
+2021-09-15 10:06:45 INFO  - Maximizing browser window
+2021-09-15 10:06:45 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-15 10:06:46 INFO  - Waiting for page to load
+2021-09-15 10:06:46 INFO  - Text Field 'google Search Box' :: Typing 'Беларусь'
+2021-09-15 10:06:48 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-15 10:06:48 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-15 10:06:48 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-15 10:06:49 INFO  - Closing browser
+2021-09-15 10:14:15 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-15 10:14:15 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-15 10:14:16 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-15 10:14:16 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-15 10:14:16 INFO  - Browser 'CHROME' ready...
+2021-09-15 10:14:16 INFO  - Maximizing browser window
+2021-09-15 10:14:16 INFO  - Navigate to url - 'null'
+2021-09-15 10:16:49 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-15 10:16:49 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-15 10:16:50 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-15 10:16:50 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-15 10:16:50 INFO  - Browser 'CHROME' ready...
+2021-09-15 10:16:51 INFO  - Maximizing browser window
+2021-09-15 10:16:51 INFO  - Navigate to url - 'null'
+2021-09-15 10:17:09 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-15 10:17:09 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-15 10:17:10 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-15 10:17:10 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-15 10:17:10 INFO  - Browser 'CHROME' ready...
+2021-09-15 10:17:10 INFO  - Maximizing browser window
+2021-09-15 10:17:11 INFO  - Navigate to url - 'null'
+2021-09-15 10:18:39 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-15 10:18:39 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-15 10:18:40 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-15 10:18:40 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-15 10:18:40 INFO  - Browser 'CHROME' ready...
+2021-09-15 10:18:40 INFO  - Maximizing browser window
+2021-09-15 10:18:40 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-15 10:18:41 INFO  - Waiting for page to load
+2021-09-15 10:18:41 INFO  - Text Field 'google Search Box' :: Typing 'Беларусь'
+2021-09-15 10:18:44 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-15 10:18:44 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-15 10:18:44 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-15 10:19:29 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-15 10:19:29 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-15 10:19:30 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-15 10:19:30 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-15 10:19:30 INFO  - Browser 'CHROME' ready...
+2021-09-15 10:19:30 INFO  - Maximizing browser window
+2021-09-15 10:19:30 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-15 10:19:31 INFO  - Waiting for page to load
+2021-09-15 10:19:31 INFO  - Text Field 'google Search Box' :: Typing 'Беларусь'
+2021-09-15 10:19:34 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-15 10:19:34 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-15 10:19:34 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-15 10:21:50 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-15 10:21:50 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-15 10:21:51 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-15 10:21:51 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-15 10:21:51 INFO  - Browser 'CHROME' ready...
+2021-09-15 10:21:51 INFO  - Maximizing browser window
+2021-09-15 10:21:52 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-15 10:21:52 INFO  - Waiting for page to load
+2021-09-15 10:21:52 INFO  - Text Field 'google Search Box' :: Typing 'Беларусь'
+2021-09-15 10:21:55 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-15 10:21:55 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-15 10:21:55 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-15 10:22:28 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-15 10:22:28 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-15 10:22:30 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-15 10:22:30 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-15 10:22:30 INFO  - Browser 'CHROME' ready...
+2021-09-15 10:22:30 INFO  - Maximizing browser window
+2021-09-15 10:22:30 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-15 10:22:31 INFO  - Waiting for page to load
+2021-09-15 10:22:31 INFO  - Text Field 'google Search Box' :: Typing 'Беларусь'
+2021-09-15 10:22:33 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-15 10:22:33 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-15 10:22:33 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-15 10:22:55 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-15 10:22:55 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-15 10:22:56 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-15 10:22:56 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-15 10:22:56 INFO  - Browser 'CHROME' ready...
+2021-09-15 10:22:56 INFO  - Maximizing browser window
+2021-09-15 10:22:56 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-15 10:22:57 INFO  - Waiting for page to load
+2021-09-15 10:22:57 INFO  - Text Field 'google Search Box' :: Typing 'Беларусь'
+2021-09-15 10:23:03 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-15 10:23:03 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-15 10:23:05 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-15 10:23:05 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-15 10:23:05 INFO  - Browser 'CHROME' ready...
+2021-09-15 10:23:05 INFO  - Maximizing browser window
+2021-09-15 10:23:05 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-15 10:23:06 INFO  - Waiting for page to load
+2021-09-15 10:23:06 INFO  - Text Field 'google Search Box' :: Typing 'Беларусь'
+2021-09-15 10:23:26 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-15 10:23:27 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-15 10:23:36 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-15 10:23:53 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-15 10:23:54 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-15 10:23:59 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-15 10:24:00 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-15 10:24:11 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-15 10:24:12 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-15 10:24:15 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-15 10:24:16 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-15 10:25:48 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-15 10:25:48 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-15 10:25:49 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-15 10:25:49 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-15 10:25:49 INFO  - Browser 'CHROME' ready...
+2021-09-15 10:25:49 INFO  - Maximizing browser window
+2021-09-15 10:25:50 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-15 10:25:51 INFO  - Waiting for page to load
+2021-09-15 10:25:51 INFO  - Text Field 'google Search Box' :: Typing 'Беларусь'
+2021-09-15 10:25:53 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-15 10:25:53 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-15 10:26:36 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-15 10:26:36 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-15 10:26:37 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-15 10:26:37 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-15 10:26:37 INFO  - Browser 'CHROME' ready...
+2021-09-15 10:26:37 INFO  - Maximizing browser window
+2021-09-15 10:26:37 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-15 10:26:38 INFO  - Waiting for page to load
+2021-09-15 10:26:38 INFO  - Text Field 'google Search Box' :: Typing 'Беларусь'
+2021-09-15 10:26:40 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-15 10:26:40 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-15 10:29:19 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-15 10:29:19 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-15 10:29:21 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-15 10:29:21 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-15 10:29:21 INFO  - Browser 'CHROME' ready...
+2021-09-15 10:29:21 INFO  - Maximizing browser window
+2021-09-15 10:29:21 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-15 10:29:23 INFO  - Waiting for page to load
+2021-09-15 10:29:23 INFO  - Text Field 'google Search Box' :: Typing 'Беларусь'
+2021-09-15 10:29:26 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-15 10:29:26 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-15 10:29:26 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-15 10:30:34 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-15 10:30:34 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-15 10:30:35 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-15 10:30:35 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-15 10:30:35 INFO  - Browser 'CHROME' ready...
+2021-09-15 10:30:36 INFO  - Maximizing browser window
+2021-09-15 10:30:36 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-15 10:30:37 INFO  - Waiting for page to load
+2021-09-15 10:30:37 INFO  - Text Field 'google Search Box' :: Typing 'Беларусь'
+2021-09-15 10:30:39 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-15 10:30:39 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-15 10:30:40 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-15 10:30:40 INFO  - Closing browser
+2021-09-15 10:32:38 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-15 10:32:38 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-15 10:32:39 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-15 10:32:39 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-15 10:32:39 INFO  - Browser 'CHROME' ready...
+2021-09-15 10:32:39 INFO  - Maximizing browser window
+2021-09-15 10:32:39 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-15 10:32:40 INFO  - Waiting for page to load
+2021-09-15 10:32:40 INFO  - Text Field 'google Search Box' :: Typing 'Беларусь'
+2021-09-15 10:32:43 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-15 10:32:43 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-15 10:32:43 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-15 10:34:07 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-15 10:34:07 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-15 10:34:08 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-15 10:34:08 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-15 10:34:08 INFO  - Browser 'CHROME' ready...
+2021-09-15 10:34:08 INFO  - Maximizing browser window
+2021-09-15 10:34:08 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-15 10:34:09 INFO  - Waiting for page to load
+2021-09-15 10:34:09 INFO  - Text Field 'google Search Box' :: Typing 'Беларусь'
+2021-09-15 10:34:12 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-15 10:34:12 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-15 10:34:12 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-15 10:34:12 INFO  - Closing browser
+2021-09-15 10:34:48 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-15 10:34:48 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-15 10:34:50 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-15 10:34:50 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-15 10:34:50 INFO  - Browser 'CHROME' ready...
+2021-09-15 10:34:50 INFO  - Maximizing browser window
+2021-09-15 10:34:50 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-15 10:34:51 INFO  - Waiting for page to load
+2021-09-15 10:34:51 INFO  - Text Field 'google Search Box' :: Typing 'Беларусь'
+2021-09-15 10:34:53 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-15 10:34:53 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-15 10:34:53 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-15 10:34:53 INFO  - Closing browser
+2021-09-15 10:35:17 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-15 10:35:17 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-15 10:35:18 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-15 10:35:18 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-15 10:35:18 INFO  - Browser 'CHROME' ready...
+2021-09-15 10:35:18 INFO  - Maximizing browser window
+2021-09-15 10:35:18 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-15 10:35:20 INFO  - Waiting for page to load
+2021-09-15 10:35:20 INFO  - Text Field 'google Search Box' :: Typing 'Беларусь'
+2021-09-15 10:35:22 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-15 10:35:22 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-15 10:35:22 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-15 10:35:22 INFO  - Closing browser
+2021-09-15 10:39:39 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-15 10:39:39 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-15 10:39:40 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-15 10:39:40 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-15 10:39:40 INFO  - Browser 'CHROME' ready...
+2021-09-15 10:39:40 INFO  - Maximizing browser window
+2021-09-15 10:39:40 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-15 10:39:41 INFO  - Waiting for page to load
+2021-09-15 10:39:41 INFO  - Text Field 'google Search Box' :: Typing 'Беларусь'
+2021-09-15 10:39:44 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-15 10:39:44 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-15 10:39:44 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-15 10:39:44 INFO  - Closing browser
+2021-09-15 10:46:44 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-15 10:46:44 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-15 10:46:45 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-15 10:46:45 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-15 10:46:45 INFO  - Browser 'CHROME' ready...
+2021-09-15 10:46:45 INFO  - Maximizing browser window
+2021-09-15 10:46:45 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-15 10:46:46 INFO  - Waiting for page to load
+2021-09-15 10:46:46 INFO  - Text Field 'google Search Box' :: Waiting for element to be displayed
+2021-09-15 10:46:47 INFO  - Text Field 'google Search Box' :: Typing 'Беларусь'
+2021-09-15 10:46:49 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-15 10:46:49 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-15 10:46:49 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-15 10:46:49 INFO  - Closing browser
+2021-09-15 10:55:01 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-15 10:55:01 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-15 10:55:03 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-15 10:55:03 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-15 10:55:03 INFO  - Browser 'CHROME' ready...
+2021-09-15 10:55:03 INFO  - Maximizing browser window
+2021-09-15 10:55:03 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-15 10:55:05 INFO  - Waiting for page to load
+2021-09-15 10:55:05 INFO  - Text Field 'google Search Box' :: Waiting for element to be displayed
+2021-09-15 10:55:05 INFO  - Text Field 'google Search Box' :: Typing 'Беларусь'
+2021-09-15 10:55:07 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-15 10:55:07 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-15 10:55:07 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-15 10:55:08 INFO  - Closing browser
+2021-09-15 11:01:52 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-15 11:01:52 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-15 11:01:53 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-15 11:01:53 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-15 11:01:53 INFO  - Browser 'CHROME' ready...
+2021-09-15 11:01:53 INFO  - Maximizing browser window
+2021-09-15 11:01:54 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-15 11:01:55 INFO  - Waiting for page to load
+2021-09-15 11:01:55 INFO  - Text Field 'google Search Box' :: Waiting for element to be displayed
+2021-09-15 11:01:55 INFO  - Text Field 'google Search Box' :: Typing 'Беларусь'
+2021-09-15 11:01:57 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-15 11:01:57 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-15 11:01:57 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-15 11:01:57 INFO  - Closing browser
+2021-09-16 13:28:50 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, download.prompt_for_download=false, profile.default_content_settings.popups=0, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-16 13:28:50 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-16 13:28:53 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-16 13:28:53 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-16 13:28:53 INFO  - Browser 'CHROME' ready...
+2021-09-16 13:28:53 INFO  - Maximizing browser window
+2021-09-16 13:28:53 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-16 13:29:02 INFO  - Waiting for page to load
+2021-09-16 13:29:02 INFO  - Text Field 'google Search Box' :: Waiting for element to be displayed
+2021-09-16 13:29:02 INFO  - Text Field 'google Search Box' :: Typing 'Беларусь'
+2021-09-16 13:29:10 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-16 13:29:10 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-16 13:29:10 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-16 13:29:10 INFO  - Closing browser
+2021-09-16 13:35:32 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, download.prompt_for_download=false, profile.default_content_settings.popups=0, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-16 13:35:32 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-16 13:35:33 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-16 13:35:33 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-16 13:35:33 INFO  - Browser 'CHROME' ready...
+2021-09-16 13:35:33 INFO  - Maximizing browser window
+2021-09-16 13:35:34 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-16 14:13:17 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, download.prompt_for_download=false, profile.default_content_settings.popups=0, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-16 14:13:17 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-16 14:13:19 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-16 14:13:19 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-16 14:13:19 INFO  - Browser 'CHROME' ready...
+2021-09-16 14:13:19 INFO  - Maximizing browser window
+2021-09-16 14:13:19 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-16 14:13:22 INFO  - Label 'Google' :: Waiting for element to be displayed
+2021-09-16 14:13:22 INFO  - Text Field 'google Search Box' :: Waiting for element to be displayed
+2021-09-16 14:13:22 INFO  - Text Field 'google Search Box' :: Typing 'Беларусь'
+2021-09-16 14:13:27 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-16 14:13:27 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-16 14:13:27 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-16 14:13:28 INFO  - Closing browser
+2021-09-16 14:20:25 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, download.prompt_for_download=false, profile.default_content_settings.popups=0, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-16 14:20:25 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-16 14:20:26 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-16 14:20:26 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-16 14:20:26 INFO  - Browser 'CHROME' ready...
+2021-09-16 14:20:26 INFO  - Maximizing browser window
+2021-09-16 14:20:27 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-16 14:20:29 INFO  - Label 'Google' :: Waiting for element to be displayed
+2021-09-16 14:20:29 INFO  - Text Field 'google Search Box' :: Waiting for element to be displayed
+2021-09-16 14:20:29 INFO  - Text Field 'google Search Box' :: Typing 'Беларусь'
+2021-09-16 14:20:38 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-16 14:20:38 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-16 14:20:38 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-16 14:20:38 INFO  - Closing browser
+2021-09-16 16:46:33 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, download.prompt_for_download=false, profile.default_content_settings.popups=0, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-16 16:46:33 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-16 16:46:35 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-16 16:46:35 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-16 16:46:35 INFO  - Browser 'CHROME' ready...
+2021-09-16 16:46:35 INFO  - Maximizing browser window
+2021-09-16 16:46:35 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-16 16:46:37 INFO  - Label 'Google' :: Waiting for element to be displayed
+2021-09-16 16:46:37 INFO  - Text Field 'google Search Box' :: Waiting for element to be displayed
+2021-09-16 16:46:37 INFO  - Text Field 'google Search Box' :: Typing 'Беларусь'
+2021-09-16 16:46:40 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-16 16:46:40 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-16 16:46:41 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-16 16:46:41 INFO  - Closing browser
+2021-09-16 17:00:25 INFO  - SQL run test data failed!
+2021-09-16 17:00:25 INFO  - SQL run test data failed!
+2021-09-16 17:02:40 INFO  - SQL run test data failed!
+2021-09-16 17:02:40 INFO  - SQL run test data failed!
+2021-09-16 18:46:22 INFO  - SQL run test data failed!
+2021-09-16 18:46:22 INFO  - SQL run test data failed!
+2021-09-16 18:51:28 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, download.prompt_for_download=false, profile.default_content_settings.popups=0, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-16 18:51:28 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-16 18:51:30 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-16 18:51:30 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-16 18:51:30 INFO  - Browser 'CHROME' ready...
+2021-09-16 18:51:30 INFO  - Maximizing browser window
+2021-09-16 18:51:30 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-16 18:51:33 INFO  - Label 'Google' :: Waiting for element to be displayed
+2021-09-16 18:51:33 INFO  - Text Field 'google Search Box' :: Waiting for element to be displayed
+2021-09-16 18:51:33 INFO  - Text Field 'google Search Box' :: Typing 'Беларусь'
+2021-09-16 18:51:39 INFO  - Text Field 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-16 18:51:39 INFO  - Text Field 'Text 'Беларусь'' :: Getting text from element
+2021-09-16 18:51:39 INFO  - Text Field 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-16 18:51:39 INFO  - Closing browser
+2021-09-16 18:56:31 INFO  - SQL run test data failed!
+2021-09-16 18:56:31 INFO  - SQL run test data failed!
+2021-09-16 19:19:31 INFO  - SQL run test data failed!
+2021-09-16 19:19:31 INFO  - SQL run test data failed!
+2021-09-16 19:26:36 INFO  - SQL run test data failed!
+2021-09-16 20:06:06 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, download.prompt_for_download=false, profile.default_content_settings.popups=0, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=//home//selenium//downloads}
+2021-09-16 20:06:06 DEBUG - Got browser capabilities from settings file: 
+{enableVNC=true}
+2021-09-16 20:06:08 DEBUG - Set '15' timeout in seconds for loading of pages
+2021-09-16 20:06:08 DEBUG - Set async javascript execution timeout '10' in seconds
+2021-09-16 20:06:08 INFO  - Browser 'CHROME' ready...
+2021-09-16 20:06:08 INFO  - Maximizing browser window
+2021-09-16 20:06:08 INFO  - Navigate to url - 'https://www.google.com/'
+2021-09-16 20:06:10 INFO  - Label 'Google' :: Waiting for element to be displayed
+2021-09-16 20:06:10 INFO  - Text Field 'google Search Box' :: Waiting for element to be displayed
+2021-09-16 20:06:11 INFO  - Text Field 'google Search Box' :: Typing 'Беларусь'
+2021-09-16 20:06:15 INFO  - Label 'Text 'Беларусь'' :: Waiting for element to be displayed
+2021-09-16 20:06:15 INFO  - Label 'Text 'Беларусь'' :: Getting text from element
+2021-09-16 20:06:15 INFO  - Label 'Text 'Беларусь'' :: Element's text: [Беларусь]
+2021-09-16 20:06:15 INFO  - Closing browser
